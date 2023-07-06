@@ -68,6 +68,7 @@ ul li{
     user-select: none;
     cursor: pointer;
     position: relative;
+    background:lightgrey;
 }
 ul li::before{
     content: '';
@@ -101,5 +102,5 @@ ul li span{
     border-radius: 50%;
 }
 ul li span:hover{
-    background: lightgrey;   
+    background: darkgrey;   
 }
