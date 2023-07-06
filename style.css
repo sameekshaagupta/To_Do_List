@@ -22,6 +22,7 @@
     color: #164a9d;
     display: flex;
     align-items: center;
+    justify-content: space-between;
     margin-bottom: 20px;
 }
 
