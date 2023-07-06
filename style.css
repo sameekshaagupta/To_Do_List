@@ -69,6 +69,7 @@ ul li{
     cursor: pointer;
     position: relative;
     background:lightgrey;
+    border-radius:6px;
 }
 ul li::before{
     content: '';
