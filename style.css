@@ -92,8 +92,8 @@ ul li.checked::before{
 
 ul li span{
     position: absolute;
-    right: 0;
-    top: 5px;
+    right: 2px;
+    top: 4px;
     width: 40px;
     height: 40 px;
     font-size: 22px;
