@@ -11,6 +11,9 @@
     padding: 30px;
 }
 
+h3{
+    text-align: center;
+}
 
 .fa-quote-left, .fa-quote-right {
     font-size: 25px;
