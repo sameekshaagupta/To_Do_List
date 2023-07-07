@@ -10,6 +10,68 @@
     background: linear-gradient(135deg, #153677, #ff1e69);
     padding: 30px;
 }
+
+
+.fa-quote-left, .fa-quote-right {
+    font-size: 35px;
+    color: rgb(179, 0, 0);
+}
+.quote
+{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.author 
+{
+
+    margin:10px;
+    text-align: right;
+    font-size: 25px;
+    font-style: italic;
+    font-family: cursive;
+}
+hr {
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid black;
+    background-color: black;
+}
+.buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 9px;
+}
+.twitter
+{
+    border:1px solid rgb(102, 179, 255);
+    border-radius: 4px;
+    background-color: rgb(102, 179, 255);
+    color: white;
+    text-align: center;
+    font-size: 1.8em;
+    width: 60px;
+    height: 35px;
+    line-height: 40px;
+}
+.next
+{
+    font-size:18px;
+    border-radius: 5px;
+    cursor:pointer;
+    padding: 10px;
+    margin-top: 5px;
+    font-weight: bold;
+    color: white;
+    background-image: linear-gradient(to right bottom, rgb(230, 0, 0), #ffedbca8);
+}
+.container:hover
+{
+    box-shadow: 0 10px 10px rgb(230, 0, 0);
+}
+
 .todo-app{
     width: 100%;
     max-width: 500px;
